@@ -1,0 +1,13 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Book__c",
+                "referenceId": "Book__cRef1"
+            },
+            "Name": "2 States",
+            "Price__c": 500,
+            "Quantity__c": 2
+        }
+    ]
+}

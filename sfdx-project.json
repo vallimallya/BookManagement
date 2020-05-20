@@ -1,0 +1,19 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true,
+            "package": "BM",
+            "versionName": "ver 0.1",
+            "versionNumber": "1.1.0.NEXT"
+        }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "48.0",
+    "packageAliases": {
+        "BM": "0Ho2w0000000093CAA",
+        "BM@0.1.0-1": "04t2w000004uaYvAAI",
+        "BM@1.1.0-1": "04t2w000004ubAAAAY"
+    }
+}
